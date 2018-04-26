@@ -1,8 +1,3 @@
-/*
- * square5.c
- * this program lets you move the square, with vsync
- */
-
 /* the width and height of the screen */
 #define WIDTH 240
 #define HEIGHT 160
